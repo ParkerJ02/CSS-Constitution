@@ -1,0 +1,33 @@
+/*This is where I set the background color*/
+body{
+	background: #ECF0F1 ;
+}
+/*This is where I format the title of the document, "The Constitituion"*/
+h1{
+	text-align: center;
+	color: red;
+	font-size: 40pt;
+	font-family: Garamond;
+}
+/*This is where I format the subtitle of the document, "Article I"*/
+h2{
+	text-align: center;
+	color: red;
+	font-size: 20pt;
+	font-family: Garamond;
+}
+/*This is where I format the text for each section header*/
+h3{
+	color: red;
+	font-size: 14pt;
+	font-family: Garamond;
+}
+/*This is where I format the text for each paragraph*/
+p{
+	color: black;
+	font-family: times new roman, arial;
+}
+/*This is where I change the color of links that have already been visited*/
+a:visited{
+	color: purple;
+}
